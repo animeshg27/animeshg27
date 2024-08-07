@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Animesh Gupta
 
 🚀 **Python Developer | Data Engineer**  
-🎓 **M.S. in Computer Science | B.Tech in Computer Science and Engineering**
+🎓 **M.S. in Computer Science**
 
 ![GitHub followers](https://img.shields.io/github/followers/animeshg27?label=Follow&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=animeshg27&color=blueviolet)
@@ -17,6 +17,9 @@
 ![Airflow](https://img.shields.io/badge/-Airflow-333?style=flat&logo=apache-airflow)
 ![Databricks](https://img.shields.io/badge/-Databricks-333?style=flat&logo=databricks)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333?style=flat&logo=scikit-learn)
+![GCP](https://img.shields.io/badge/-GCP-333?style=flat&logo=google-cloud)
+![Azure](https://img.shields.io/badge/-Azure-333?style=flat&logo=microsoft-azure)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
 
 ---
 
@@ -48,4 +51,11 @@
 
 ---
 
-*“Turning data into actionable insights and building robust solutions one line of code at a time.”*
+```python
+# Let's connect and have a chat!
+
+def connect_with_animesh():
+    message = "Hello, Animesh! Let's discuss some exciting tech opportunities."
+    return message
+
+print(connect_with_animesh())
