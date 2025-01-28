@@ -29,14 +29,19 @@ Every project here is a step towards innovation—explore, collaborate, and let'
 
 ## 💼 Work Experience
 
-**HCL Technologies | Software Engineer**  
-🔸 Managed 5TB of identity data, improving system reliability by 30%  
-🔸 Enhanced data accuracy by 20% and integrated 10+ new data sources  
-🔸 Developed pipelines using Airflow, Snowflake, Aerospike, cutting processing time by 25%
+**Kemper (Contract) | Python Full Stack Developer**
+🔸 Enhanced Jenkins pipeline for API publishing, integrated and deployed solutions across VM-based environments, and supported API updates and deployments through ticketing systems.  
+🔸 Utilized React Router and React Draggable for Single Page Applications, designed frontend/backend solutions with PHP, HTML, CSS, and JavaScript, and improved system stability by resolving bugs.  
+🔸 Designed and implemented serverless architecture using AWS Lambda, integrated AWS services like S3, RDS, DynamoDB, and deployed projects via AWS Elastic Beanstalk, reducing infrastructure costs by 30%.
 
-**KVCH | Python Intern**  
-🔸 Developed an Online Ticket Booking System with Flask, boosting speed by 30%  
-🔸 Deployed on AWS EC2 and S3 for scalability, achieving cost savings
+**HCL Technologies | Software Engineer**  
+🔸 Managed 5TB of identity data, improving system reliability by 30%.  
+🔸 Enhanced data accuracy by 20% and integrated 10+ new data sources.  
+🔸 Developed pipelines using Airflow, Snowflake, Aerospike, cutting processing time by 25%.
+
+**CMR Infotech | Python Full Stack Developer**  
+🔸 Developed full-stack web applications using Python (Django), REST APIs, and dynamic frontend frameworks.  
+🔸 Automated data processing with AWS Lambda and Python, reducing processing times by 20% and query response times by 25%.
 
 ---
 
