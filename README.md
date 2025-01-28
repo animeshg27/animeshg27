@@ -30,6 +30,8 @@ Every project here is a step towards innovation—explore, collaborate, and let'
 ## 💼 Work Experience
 
 **Kemper (Contract) | Python Full Stack Developer**
+
+🔸 Developed dynamic and responsive web applications using Angular 17, focusing on enhancing user experience through efficient component-based architecture.
 🔸 Utilized React Router and React Draggable for Single Page Applications, designed frontend/backend solutions with PHP, HTML, CSS, and JavaScript, and improved system stability by resolving bugs.  
 🔸 Designed and implemented serverless architecture using AWS Lambda, integrated AWS services like S3, RDS, DynamoDB, and deployed projects via AWS Elastic Beanstalk, reducing infrastructure costs by 30%.
 
