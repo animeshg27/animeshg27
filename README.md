@@ -4,7 +4,7 @@ In the world of data, precision and efficiency are my guiding stars. I'm Animesh
 
 Every project here is a step towards innovation—explore, collaborate, and let's build the future together!
 
-🚀 **Python Developer | Data Engineer**  
+🚀 **Full Stack Developer | AWS & Terraform Certified**  
 🎓 **M.S. in Computer Science**
 
 ![GitHub followers](https://img.shields.io/github/followers/animeshg27?label=Follow&style=social)
